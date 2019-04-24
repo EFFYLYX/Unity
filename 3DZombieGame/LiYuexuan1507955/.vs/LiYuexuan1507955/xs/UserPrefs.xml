@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8CAF59E7-2420-B0B6-8074-B56AF9A2323E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ReStartTrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="62" Column="12" />
+      <File FileName="Assets/Scripts/Zombie.cs" Line="96" Column="12" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Bonus.cs" Line="18" Column="5" />
+      <File FileName="Assets/Scripts/CoolDownTimer.cs" Line="40" Column="12" />
+      <File FileName="Assets/Scripts/LatentCreature.cs" Line="21" Column="5" />
+      <File FileName="Assets/Scripts/TimeController.cs" Line="32" Column="6" />
+      <File FileName="Assets/Scripts/ReStartTrigger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
